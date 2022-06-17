@@ -1,0 +1,62 @@
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('OrchideaPro-Bold.eot');
+    src: local('Orchidea Pro Bold'), local('OrchideaPro-Bold'),
+        url('OrchideaPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OrchideaPro-Bold.woff2') format('woff2'),
+        url('OrchideaPro-Bold.woff') format('woff'),
+        url('OrchideaPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Orchidea Pro SmBd';
+    src: url('OrchideaPro-SemiBold.eot');
+    src: local('Orchidea Pro SemiBold'), local('OrchideaPro-SemiBold'),
+        url('OrchideaPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('OrchideaPro-SemiBold.woff2') format('woff2'),
+        url('OrchideaPro-SemiBold.woff') format('woff'),
+        url('OrchideaPro-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('OrchideaPro-Regular.eot');
+    src: local('Orchidea Pro Regular'), local('OrchideaPro-Regular'),
+        url('OrchideaPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OrchideaPro-Regular.woff2') format('woff2'),
+        url('OrchideaPro-Regular.woff') format('woff'),
+        url('OrchideaPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro Md';
+    src: url('OrchideaPro-Medium.eot');
+    src: local('Orchidea Pro Medium'), local('OrchideaPro-Medium'),
+        url('OrchideaPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('OrchideaPro-Medium.woff2') format('woff2'),
+        url('OrchideaPro-Medium.woff') format('woff'),
+        url('OrchideaPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro Lt';
+    src: url('OrchideaPro-Light.eot');
+    src: local('Orchidea Pro Light'), local('OrchideaPro-Light'),
+        url('OrchideaPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('OrchideaPro-Light.woff2') format('woff2'),
+        url('OrchideaPro-Light.woff') format('woff'),
+        url('OrchideaPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
